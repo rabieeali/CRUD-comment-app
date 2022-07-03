@@ -1,0 +1,22 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "name": "Sebastian Eschweiler",
+      "email": "sebastian@codingthesmartway.com",
+      "comment": "lorem asdasd asdasda asdasdad sdasdasd"
+    },
+    {
+      "id": 2,
+      "name": "Steve Palmer",
+      "email": "steve@codingthesmartway.com",
+      "comment": "lorem asdasd asdasda asdasdad sdasdasd"
+    },
+    {
+      "id": 3,
+      "name": "Ann Smith", 
+      "email": "ann@codingthesmartway.com",
+      "comment": "lorem asdasd asdasda asdasdad sdasdasd"
+    }
+  ]
+}
